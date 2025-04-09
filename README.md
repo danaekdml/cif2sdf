@@ -9,5 +9,10 @@ cif 파일을 SDF 파일로 바꾸는 코드
 - mongoDB에 파일 자동 전송 및 저장
 - flask 통신 설정
   
-
+## ✏️openbabel 사용법
+- openbabel은 화학 정보학 도구로 다양한 화학 파일 형식간의 변환을 지원하는 오픈소스 라이브러리(python)
+- conda를 이용한 설치
+  conda install -c conda-forge pymol-open-source
+  conda install -c conda-forge openbabel
+- 
 
